@@ -1,6 +1,7 @@
 ---
 title: San Lesmes
 date: "2019-05-22T22:12:03.284Z"
+description: "San Lesmes"
 ---
 
 Setenta veces siete semanas llevan mis huesos en este rincón de la jungla. Cuando se lleva tanto como llevo aquí, sin trato con hombres, la conducta se despoja de lo poco importante, que cae como hojarasca. Nunca supe de números, pero ahora sé que perder la cuenta del tiempo es perderlo todo, pues no hay hoja sin nervios ni nombre sin sonido, excepto quizá el mío.
