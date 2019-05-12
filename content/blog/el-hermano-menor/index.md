@@ -1,6 +1,6 @@
 ---
 title: El hermano menor
-date: "2019-05-22T22:12:03.284Z"
+date: "2019-05-12T22:12:03.284Z"
 description: "El hermano mayor"
 ---
 
